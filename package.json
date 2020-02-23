@@ -1,0 +1,27 @@
+{
+  "name": "canvaskit-test",
+  "version": "1.0.0",
+  "description": "canvas kit test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUNQIUGUO/canvaskit-test.git"
+  },
+  "keywords": [
+    "test",
+    "draw",
+    "commands"
+  ],
+  "author": "gyq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YUNQIUGUO/canvaskit-test/issues"
+  },
+  "homepage": "https://github.com/YUNQIUGUO/canvaskit-test#readme",
+  "dependencies": {
+    "canvaskit-wasm": "^0.12.0"
+  }
+}
